@@ -1,0 +1,32 @@
+body {background-color: #F8CED5;
+	}
+nav {
+	border-color: #DAB5D3;
+	background-color: #F8CED5;
+	text-align: center;
+	font-size: large;
+	background-size: 0px auto;
+}
+.navlist {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	overflow: hidden;
+	letter-spacing: normal;
+	word-spacing: normal;
+	border-color: #000000;
+	border-style: solid;
+	text-align: center;
+}
+.navlistitem {
+	float: left;
+}
+.navlistitem a {
+	text-decoration: none;
+	display: block;
+	padding-top: 14px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	color: #2C2A2A;
+}
